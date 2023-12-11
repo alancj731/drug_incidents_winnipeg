@@ -6,15 +6,18 @@ from sodapy import Socrata
 
 
 client = Socrata("data.winnipeg.ca", None)
-df = pd.DataFrame(client.get("6x82-bz5y"))
+df = pd.DataFrame.from_records(client.get("6x82-bz5y"))
 
 # save fetched data to csv file
 df.to_csv("data/data.csv")
 
-# get date valuefrom dispatch_date
+# get date value from dispatch_date
 df['dispatch_date'] = df['dispatch_date'].apply(lambda x: np.char.split(x, 'T')).apply(lambda x: x[0])
 # change format to datetime
 df['dispatch_date'] = pd.to_datetime(df['dispatch_date'])
+# change format to int
+df['patient_number'] = df['patient_number'].astype(int)
+
 # fill NA
 df.fillna('N.A.', inplace=True)
 
@@ -67,6 +70,12 @@ def plot_and_save(df, name):
   # Adding labels for the second y-axis
   ax2.set_ylabel('Daily Incidents', color='grey')
   ax2.tick_params('y', colors='grey')
+  
+  n = 5
+  xticks_indices = range(0, len(df['dispatch_date']), len(df['dispatch_date']) // n)
+  xticks_labels = df['dispatch_date'].iloc[xticks_indices].dt.date
+  ax1.set_xticks(xticks_labels)
+  ax1.set_xticklabels(xticks_labels, rotation=45, ha='right')
 
   # Adding legend
   lines, labels = ax1.get_legend_handles_labels()
