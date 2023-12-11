@@ -54,21 +54,21 @@ def plot_and_save(df, name):
   fig, ax1 = plt.subplots(figsize=(10, 6))
 
   # Plotting 'running_total' on the first y-axis
-  ax1.plot(df['dispatch_date'], df['running_total'], label='Total', color='blue')
+  ax1.plot(df['dispatch_date'], df['patient_number'], label='Daily Incidents', color='blue')
 
   # Adding labels for the first y-axis
   ax1.set_xlabel('Date')
-  ax1.set_ylabel('Running Total', color='black')
+  ax1.set_ylabel('Daily Incidents', color='black')
   ax1.tick_params('y', colors='black')
 
   # Create a secondary y-axis for 'another_column'
   ax2 = ax1.twinx()
 
   # Plotting 'another_column' on the second y-axis
-  ax2.plot(df['dispatch_date'], df['patient_number'], marker='x', label='Daily Incidents', color='grey')
+  ax2.plot(df['dispatch_date'], df['running_total'], marker='x', label='Total', color='grey')
 
   # Adding labels for the second y-axis
-  ax2.set_ylabel('Daily Incidents', color='grey')
+  ax2.set_ylabel('Running Total', color='grey')
   ax2.tick_params('y', colors='grey')
   
   n = 5
