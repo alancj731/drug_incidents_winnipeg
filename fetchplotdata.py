@@ -89,7 +89,7 @@ def plot_and_save(df, name):
   plt.savefig(f'data/{name.replace(" ","_")}.png', bbox_inches='tight')
   #plt.show()
 
-plot_and_save(sum_p_number_df, "Drug & Alcohol")
+plot_and_save(sum_p_number_df, "Drug and Alcohol")
 plot_and_save(sum_o_number_df, "Opioids")
 plot_and_save(sum_a_number_df, "Alcohol")
 plot_and_save(sum_cr_number_df, "Crystal Meth")
