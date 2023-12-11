@@ -95,3 +95,32 @@ plot_and_save(sum_a_number_df, "Alcohol")
 plot_and_save(sum_cr_number_df, "Crystal Meth")
 plot_and_save(sum_m_number_df, "Marijuana")
 plot_and_save(sum_co_number_df, "Cocaine")
+
+from datetime import datetime
+import re
+
+# update the index.html to set the updated time
+def update_last_modified(html_file_path):
+    try:
+        # Read the HTML file
+        with open(html_file_path, 'r') as file:
+            content = file.read()
+
+        # Use regular expression to replace content within the <span> tags with the current date
+        current_date = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+        pattern = r'<h2 id="updated_time">.*?</h2>'
+        updated_content = re.sub(pattern, '<h2 id="updated_time">Data updated from data.winnipeg.ca at {}</h2>'.format(current_date), content, flags=re.DOTALL)
+
+        # Write the updated content back to the file
+        with open(html_file_path, 'w') as file:
+            file.write(updated_content)
+
+        print('Last modified date updated successfully.')
+    except Exception as e:
+        print('Error updating last modified date:', str(e))
+
+# Specify the path to your HTML file
+html_file_path = './index.html'
+
+# Call the function to update the last modified date
+update_last_modified(html_file_path)
