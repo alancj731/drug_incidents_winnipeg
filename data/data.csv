@@ -65,8 +65,8 @@
 63,2023166084,2023-12-12T21:15:19.000,1,25 to 29,Female,Alcohol,Daniel McIntyre,NE182,St. Matthews
 64,2023166081,2023-12-12T21:03:05.000,1,15 to 19,Female,Alcohol,,,
 65,2023166071,2023-12-12T20:40:33.000,1,35 to 39,Female,Alcohol,River Heights - Fort Garry,NE059,Grant Park
-66,2023166024,2023-12-12T18:14:35.000,1,35 to 39,Male,Alcohol,Charleswood - Tuxedo - Westwood,NE048,Edgeland
-67,2023166024,2023-12-12T18:14:35.000,2,40 to 44,Male,Alcohol,Charleswood - Tuxedo - Westwood,NE048,Edgeland
+66,2023166024,2023-12-12T18:14:35.000,2,40 to 44,Male,Alcohol,Charleswood - Tuxedo - Westwood,NE048,Edgeland
+67,2023166024,2023-12-12T18:14:35.000,1,35 to 39,Male,Alcohol,Charleswood - Tuxedo - Westwood,NE048,Edgeland
 68,2023166018,2023-12-12T18:04:47.000,1,25 to 29,Male,Opioids,Point Douglas,NE030,China Town
 69,2023166010,2023-12-12T17:40:39.000,1,30 to 34,Male,Cocaine,Daniel McIntyre,NE182,St. Matthews
 70,2023165998,2023-12-12T17:26:11.000,1,15 to 19,Female,Crystal Meth,Point Douglas,NE088,Logan-C.P.R.
@@ -122,8 +122,8 @@
 120,2023164643,2023-12-09T23:56:14.000,1,25 to 29,Female,Crystal Meth,Fort Rouge - East Fort Garry,NE168,South Portage
 121,2023164619,2023-12-09T23:03:00.000,1,65 to 69,Male,Opioids,Point Douglas,NE166,South Point Douglas
 122,2023164587,2023-12-09T21:24:47.000,1,35 to 39,Male,Opioids,Mynarski,NE040,Dufferin
-123,2023164577,2023-12-09T21:14:55.000,1,20 to 24,Male,Opioids,Point Douglas,NE166,South Point Douglas
-124,2023164577,2023-12-09T21:14:55.000,1,20 to 24,Male,Crystal Meth,Point Douglas,NE166,South Point Douglas
+123,2023164577,2023-12-09T21:14:55.000,1,20 to 24,Male,Crystal Meth,Point Douglas,NE166,South Point Douglas
+124,2023164577,2023-12-09T21:14:55.000,1,20 to 24,Male,Opioids,Point Douglas,NE166,South Point Douglas
 125,2023164570,2023-12-09T21:08:36.000,1,40 to 44,Female,Opioids,Mynarski,NE118,North Point Douglas
 126,2023164552,2023-12-09T20:51:28.000,1,40 to 44,Female,Crystal Meth,Mynarski,NE181,St. John's Park
 127,2023164556,2023-12-09T20:22:52.000,1,35 to 39,Male,Marijuana,Waverley West,NE053,Fairfield Park
@@ -142,8 +142,8 @@
 140,2023164255,2023-12-09T06:56:57.000,1,55 to 59,Female,Alcohol,Point Douglas,NE088,Logan-C.P.R.
 141,2023164227,2023-12-09T04:49:10.000,1,50 to 54,Male,Alcohol,Fort Rouge - East Fort Garry,NE220,West Broadway
 142,2023164226,2023-12-09T04:41:32.000,1,60 to 64,Male,Alcohol,River Heights - Fort Garry,NE016,Brockville
-143,2023164225,2023-12-09T04:36:47.000,2,45 to 49,Male,Opioids,St. Boniface,NE027,Central St. Boniface
-144,2023164225,2023-12-09T04:36:47.000,1,40 to 44,Female,Opioids,St. Boniface,NE027,Central St. Boniface
+143,2023164225,2023-12-09T04:36:47.000,1,40 to 44,Female,Opioids,St. Boniface,NE027,Central St. Boniface
+144,2023164225,2023-12-09T04:36:47.000,2,45 to 49,Male,Opioids,St. Boniface,NE027,Central St. Boniface
 145,2023164224,2023-12-09T04:31:54.000,1,30 to 34,Female,Opioids,Mynarski,NE180,St. John's
 146,2023164224,2023-12-09T04:31:54.000,1,30 to 34,Female,Crystal Meth,Mynarski,NE180,St. John's
 147,2023164203,2023-12-09T04:14:59.000,1,,Female,Alcohol,Fort Rouge - East Fort Garry,NE154,Roslyn
@@ -227,8 +227,8 @@
 225,2023163072,2023-12-06T20:18:40.000,1,35 to 39,Male,Opioids,Old Kildonan,NE085,Leila-McPhillips Triangle
 226,2023163064,2023-12-06T20:00:34.000,1,35 to 39,Male,Opioids,St. Boniface,NE027,Central St. Boniface
 227,2023163025,2023-12-06T18:13:13.000,1,25 to 29,Female,Opioids,Mynarski,NE070,Jefferson
-228,2023163019,2023-12-06T17:59:33.000,1,50 to 54,Male,Opioids,Daniel McIntyre,NE174,Spence
-229,2023163019,2023-12-06T17:59:33.000,2,45 to 49,Female,Opioids,Daniel McIntyre,NE174,Spence
+228,2023163019,2023-12-06T17:59:33.000,2,45 to 49,Female,Opioids,Daniel McIntyre,NE174,Spence
+229,2023163019,2023-12-06T17:59:33.000,1,50 to 54,Male,Opioids,Daniel McIntyre,NE174,Spence
 230,2023163017,2023-12-06T17:56:46.000,1,35 to 39,Female,Crystal Meth,Old Kildonan,NE084,Leila North
 231,2023162940,2023-12-06T15:56:05.000,1,40 to 44,Female,Opioids,St. James,NE164,Silver Heights
 232,2023162935,2023-12-06T15:38:29.000,1,45 to 49,Male,Opioids,St. James,NE134,Polo Park
@@ -274,16 +274,16 @@
 272,2023162120,2023-12-05T01:51:11.000,1,30 to 34,Female,Opioids,Point Douglas,NE226,Weston
 273,2023162110,2023-12-05T01:17:58.000,1,15 to 19,Male,Alcohol,Daniel McIntyre,NE033,Colony
 274,2023162074,2023-12-04T23:25:24.000,1,30 to 34,Female,Opioids,Mynarski,NE180,St. John's
-275,2023162049,2023-12-04T22:15:32.000,1,25 to 29,Male,Marijuana,Fort Rouge - East Fort Garry,NE220,West Broadway
-276,2023162049,2023-12-04T22:15:32.000,1,25 to 29,Male,Alcohol,Fort Rouge - East Fort Garry,NE220,West Broadway
+275,2023162049,2023-12-04T22:15:32.000,1,25 to 29,Male,Alcohol,Fort Rouge - East Fort Garry,NE220,West Broadway
+276,2023162049,2023-12-04T22:15:32.000,1,25 to 29,Male,Marijuana,Fort Rouge - East Fort Garry,NE220,West Broadway
 277,2023162052,2023-12-04T22:14:04.000,1,40 to 44,Male,Opioids,Point Douglas,NE166,South Point Douglas
 278,2023162038,2023-12-04T21:54:26.000,1,15 to 19,Female,Alcohol,Daniel McIntyre,NE136,Portage-Ellice
 279,2023161996,2023-12-04T19:39:18.000,1,25 to 29,Male,Opioids,Daniel McIntyre,NE038,Daniel McIntyre
 280,2023161978,2023-12-04T18:38:50.000,1,30 to 34,Male,Alcohol,River Heights - Fort Garry,NE131,Pembina Strip
 281,2023161955,2023-12-04T18:01:47.000,1,50 to 54,Male,Opioids,Mynarski,NE180,St. John's
 282,2023161894,2023-12-04T15:40:49.000,1,45 to 49,Male,Alcohol,St. James,NE179,St. James Industrial
-283,2023161872,2023-12-04T15:05:20.000,2,50 to 54,Male,Alcohol,Fort Rouge - East Fort Garry,NE168,South Portage
-284,2023161872,2023-12-04T15:05:20.000,1,30 to 34,Male,Alcohol,Fort Rouge - East Fort Garry,NE168,South Portage
+283,2023161872,2023-12-04T15:05:20.000,1,30 to 34,Male,Alcohol,Fort Rouge - East Fort Garry,NE168,South Portage
+284,2023161872,2023-12-04T15:05:20.000,2,50 to 54,Male,Alcohol,Fort Rouge - East Fort Garry,NE168,South Portage
 285,2023161863,2023-12-04T14:34:16.000,1,35 to 39,Male,Alcohol,Fort Rouge - East Fort Garry,NE168,South Portage
 286,2023161859,2023-12-04T14:20:32.000,1,35 to 39,Male,Opioids,Point Douglas,NE166,South Point Douglas
 287,2023161831,2023-12-04T13:16:57.000,1,40 to 44,Female,Opioids,Fort Rouge - East Fort Garry,NE154,Roslyn
@@ -325,11 +325,11 @@
 323,2023161251,2023-12-03T08:25:33.000,1,40 to 44,Female,Opioids,Elmwood - East Kildonan,NE189,Talbot-Grey
 324,2023161250,2023-12-03T08:11:35.000,1,40 to 44,Female,Opioids,Point Douglas,NE166,South Point Douglas
 325,2023161239,2023-12-03T07:37:25.000,1,50 to 54,Female,Alcohol,Mynarski,NE232,William Whyte
-326,2023161234,2023-12-03T07:12:40.000,1,35 to 39,Male,Opioids,Daniel McIntyre,NE033,Colony
-327,2023161234,2023-12-03T07:12:40.000,1,35 to 39,Male,Cocaine,Daniel McIntyre,NE033,Colony
+326,2023161234,2023-12-03T07:12:40.000,1,35 to 39,Male,Cocaine,Daniel McIntyre,NE033,Colony
+327,2023161234,2023-12-03T07:12:40.000,1,35 to 39,Male,Opioids,Daniel McIntyre,NE033,Colony
 328,2023161213,2023-12-03T06:00:27.000,1,20 to 24,Male,Alcohol,Fort Rouge - East Fort Garry,NE045,Earl Grey
-329,2023161204,2023-12-03T04:49:45.000,1,15 to 19,Female,Alcohol,Daniel McIntyre,NE025,Central Park
-330,2023161204,2023-12-03T04:49:45.000,1,15 to 19,Female,Marijuana,Daniel McIntyre,NE025,Central Park
+329,2023161204,2023-12-03T04:49:45.000,1,15 to 19,Female,Marijuana,Daniel McIntyre,NE025,Central Park
+330,2023161204,2023-12-03T04:49:45.000,1,15 to 19,Female,Alcohol,Daniel McIntyre,NE025,Central Park
 331,2023161183,2023-12-03T03:35:09.000,1,35 to 39,Female,Alcohol,Mynarski,NE118,North Point Douglas
 332,2023161178,2023-12-03T03:11:33.000,1,30 to 34,Male,Opioids,Point Douglas,NE166,South Point Douglas
 333,2023161168,2023-12-03T02:33:23.000,1,35 to 39,Female,Alcohol,Fort Rouge - East Fort Garry,NE015,Broadway-Assiniboine
@@ -348,8 +348,8 @@
 346,2023161090,2023-12-02T22:04:46.000,1,20 to 24,Male,Marijuana,Waverley West,NE229,Whyte Ridge
 347,2023161084,2023-12-02T21:50:48.000,1,25 to 29,Male,Opioids,Fort Rouge - East Fort Garry,NE149,River-Osborne
 348,2023161082,2023-12-02T21:45:31.000,1,30 to 34,Male,Opioids,Mynarski,NE180,St. John's
-349,2023161076,2023-12-02T21:16:06.000,1,25 to 29,Male,Cocaine,Elmwood - East Kildonan,NE075,Kildonan Crossing
-350,2023161076,2023-12-02T21:16:06.000,1,25 to 29,Male,Alcohol,Elmwood - East Kildonan,NE075,Kildonan Crossing
+349,2023161076,2023-12-02T21:16:06.000,1,25 to 29,Male,Alcohol,Elmwood - East Kildonan,NE075,Kildonan Crossing
+350,2023161076,2023-12-02T21:16:06.000,1,25 to 29,Male,Cocaine,Elmwood - East Kildonan,NE075,Kildonan Crossing
 351,2023161071,2023-12-02T20:49:22.000,1,25 to 29,Male,Opioids,St. Boniface,NE027,Central St. Boniface
 352,2023161065,2023-12-02T20:36:01.000,1,55 to 59,Male,Alcohol,St. James,NE187,Sturgeon Creek
 353,2023161050,2023-12-02T19:54:23.000,1,35 to 39,Male,Alcohol,Fort Rouge - East Fort Garry,NE150,Riverview
@@ -357,8 +357,8 @@
 355,2023160990,2023-12-02T17:21:49.000,1,30 to 34,Male,Opioids,Mynarski,NE180,St. John's
 356,2023160984,2023-12-02T17:05:39.000,1,50 to 54,Female,Alcohol,Daniel McIntyre,NE136,Portage-Ellice
 357,2023160980,2023-12-02T16:54:23.000,1,15 to 19,Male,Alcohol,Fort Rouge - East Fort Garry,NE168,South Portage
-358,2023160977,2023-12-02T16:52:00.000,1,20 to 24,Female,Alcohol,Point Douglas,NE219,West Alexander
-359,2023160977,2023-12-02T16:52:00.000,1,20 to 24,Female,Cocaine,Point Douglas,NE219,West Alexander
+358,2023160977,2023-12-02T16:52:00.000,1,20 to 24,Female,Cocaine,Point Douglas,NE219,West Alexander
+359,2023160977,2023-12-02T16:52:00.000,1,20 to 24,Female,Alcohol,Point Douglas,NE219,West Alexander
 360,2023160955,2023-12-02T16:08:16.000,1,20 to 24,Female,Alcohol,St. Vital,NE236,Worthington
 361,2023160944,2023-12-02T15:29:35.000,1,55 to 59,Male,Cocaine,Mynarski,NE066,Inkster-Faraday
 362,2023160890,2023-12-02T12:42:11.000,1,30 to 34,Male,Opioids,Fort Rouge - East Fort Garry,NE168,South Portage
@@ -404,8 +404,8 @@
 402,2023160283,2023-12-01T07:39:39.000,1,35 to 39,Male,Opioids,Daniel McIntyre,NE038,Daniel McIntyre
 403,2023160231,2023-12-01T02:52:18.000,1,25 to 29,Female,Crystal Meth,Fort Rouge - East Fort Garry,NE220,West Broadway
 404,2023160223,2023-12-01T02:34:15.000,1,25 to 29,Male,Crystal Meth,Mynarski,NE232,William Whyte
-405,2023160217,2023-12-01T02:09:11.000,1,35 to 39,Male,Alcohol,St. James,NE134,Polo Park
-406,2023160217,2023-12-01T02:09:11.000,1,35 to 39,Male,Opioids,St. James,NE134,Polo Park
+405,2023160217,2023-12-01T02:09:11.000,1,35 to 39,Male,Opioids,St. James,NE134,Polo Park
+406,2023160217,2023-12-01T02:09:11.000,1,35 to 39,Male,Alcohol,St. James,NE134,Polo Park
 407,2023160207,2023-12-01T01:38:43.000,1,40 to 44,Male,Opioids,Mynarski,NE118,North Point Douglas
 408,2023160201,2023-12-01T01:27:30.000,1,30 to 34,Male,Opioids,Point Douglas,NE024,Centennial
 409,2023160197,2023-12-01T01:06:57.000,1,45 to 49,Male,Alcohol,Point Douglas,NE031,Civic Centre
@@ -467,8 +467,8 @@
 465,2023159551,2023-11-29T19:04:14.000,1,40 to 44,Male,Opioids,Point Douglas,NE088,Logan-C.P.R.
 466,2023159541,2023-11-29T18:34:24.000,1,35 to 39,Female,Opioids,Point Douglas,NE219,West Alexander
 467,2023159529,2023-11-29T18:07:58.000,1,25 to 29,Male,Alcohol,Daniel McIntyre,NE105,Minto
-468,2023159527,2023-11-29T18:04:29.000,1,45 to 49,Female,Opioids,Daniel McIntyre,NE136,Portage-Ellice
-469,2023159527,2023-11-29T18:04:29.000,1,45 to 49,Female,Alcohol,Daniel McIntyre,NE136,Portage-Ellice
+468,2023159527,2023-11-29T18:04:29.000,1,45 to 49,Female,Alcohol,Daniel McIntyre,NE136,Portage-Ellice
+469,2023159527,2023-11-29T18:04:29.000,1,45 to 49,Female,Opioids,Daniel McIntyre,NE136,Portage-Ellice
 470,2023159521,2023-11-29T17:52:35.000,1,35 to 39,Male,Opioids,Fort Rouge - East Fort Garry,NE168,South Portage
 471,2023159512,2023-11-29T17:31:38.000,1,25 to 29,Male,Opioids,Daniel McIntyre,NE038,Daniel McIntyre
 472,2023159506,2023-11-29T17:22:23.000,1,50 to 54,Male,Alcohol,Daniel McIntyre,NE136,Portage-Ellice
@@ -505,9 +505,9 @@
 503,2023159118,2023-11-28T22:58:01.000,1,20 to 24,Female,Crystal Meth,Mynarski,NE118,North Point Douglas
 504,2023159109,2023-11-28T22:39:00.000,1,35 to 39,Female,Opioids,Point Douglas,NE227,Weston Shops
 505,2023159084,2023-11-28T21:35:46.000,1,30 to 34,Male,Opioids,Point Douglas,NE135,Portage & Main
-506,2023159075,2023-11-28T21:31:58.000,1,25 to 29,Male,Crystal Meth,,,
-507,2023159075,2023-11-28T21:31:58.000,1,25 to 29,Male,Alcohol,,,
-508,2023159075,2023-11-28T21:31:58.000,1,25 to 29,Male,Opioids,,,
+506,2023159075,2023-11-28T21:31:58.000,1,25 to 29,Male,Alcohol,,,
+507,2023159075,2023-11-28T21:31:58.000,1,25 to 29,Male,Opioids,,,
+508,2023159075,2023-11-28T21:31:58.000,1,25 to 29,Male,Crystal Meth,,,
 509,2023159082,2023-11-28T21:27:44.000,1,30 to 34,Female,Opioids,Mynarski,NE040,Dufferin
 510,2023159037,2023-11-28T19:49:59.000,1,55 to 59,Female,Alcohol,Mynarski,NE232,William Whyte
 511,2023159032,2023-11-28T19:33:53.000,1,60 to 64,Male,Alcohol,St. Vital,NE184,St. Vital Centre
@@ -585,8 +585,8 @@
 583,2023157637,2023-11-25T22:08:29.000,1,15 to 19,Male,Alcohol,Fort Rouge - East Fort Garry,NE015,Broadway-Assiniboine
 584,2023157636,2023-11-25T22:03:34.000,1,,Unknown,Opioids,Mynarski,NE232,William Whyte
 585,2023157628,2023-11-25T21:45:10.000,1,50 to 54,Male,Opioids,Elmwood - East Kildonan,NE028,Chalmers
-586,2023157615,2023-11-25T21:12:27.000,1,20 to 24,Female,Alcohol,Fort Rouge - East Fort Garry,NE168,South Portage
-587,2023157615,2023-11-25T21:12:27.000,1,20 to 24,Female,Crystal Meth,Fort Rouge - East Fort Garry,NE168,South Portage
+586,2023157615,2023-11-25T21:12:27.000,1,20 to 24,Female,Crystal Meth,Fort Rouge - East Fort Garry,NE168,South Portage
+587,2023157615,2023-11-25T21:12:27.000,1,20 to 24,Female,Alcohol,Fort Rouge - East Fort Garry,NE168,South Portage
 588,2023157597,2023-11-25T20:27:26.000,1,35 to 39,Female,Opioids,Daniel McIntyre,NE038,Daniel McIntyre
 589,2023157593,2023-11-25T20:13:14.000,1,35 to 39,Male,Opioids,Fort Rouge - East Fort Garry,NE168,South Portage
 590,2023157565,2023-11-25T19:07:57.000,1,20 to 24,Male,Alcohol,St. Boniface,NE233,Windsor Park
@@ -623,8 +623,8 @@
 621,2023157145,2023-11-24T19:43:19.000,1,15 to 19,Male,Alcohol,River Heights - Fort Garry,NE009,Beaumont
 622,2023157127,2023-11-24T18:55:34.000,1,25 to 29,Male,Cocaine,North Kildonan,NE156,Rossmere-A
 623,2023157120,2023-11-24T18:40:13.000,1,35 to 39,Male,Alcohol,Fort Rouge - East Fort Garry,NE083,Legislature
-624,2023157116,2023-11-24T18:29:05.000,1,25 to 29,Female,Alcohol,Daniel McIntyre,NE025,Central Park
-625,2023157116,2023-11-24T18:29:05.000,1,25 to 29,Female,Crystal Meth,Daniel McIntyre,NE025,Central Park
+624,2023157116,2023-11-24T18:29:05.000,1,25 to 29,Female,Crystal Meth,Daniel McIntyre,NE025,Central Park
+625,2023157116,2023-11-24T18:29:05.000,1,25 to 29,Female,Alcohol,Daniel McIntyre,NE025,Central Park
 626,2023157075,2023-11-24T17:12:09.000,1,30 to 34,Male,Opioids,North Kildonan,NE156,Rossmere-A
 627,2023157075,2023-11-24T17:12:09.000,1,30 to 34,Male,Alcohol,North Kildonan,NE156,Rossmere-A
 628,2023157059,2023-11-24T16:50:03.000,1,50 to 54,Male,Opioids,Point Douglas,NE024,Centennial
@@ -634,9 +634,9 @@
 632,2023157030,2023-11-24T16:06:35.000,1,20 to 24,Male,Opioids,Mynarski,NE040,Dufferin
 633,2023157013,2023-11-24T15:27:45.000,1,15 to 19,Male,Alcohol,St. James,NE078,King Edward
 634,2023157008,2023-11-24T15:20:44.000,1,25 to 29,Female,Alcohol,Point Douglas,NE166,South Point Douglas
-635,2023156974,2023-11-24T14:57:05.000,1,35 to 39,Female,Cocaine,Point Douglas,NE024,Centennial
-636,2023156974,2023-11-24T14:57:05.000,1,35 to 39,Female,Alcohol,Point Douglas,NE024,Centennial
-637,2023156974,2023-11-24T14:57:05.000,1,35 to 39,Female,Crystal Meth,Point Douglas,NE024,Centennial
+635,2023156974,2023-11-24T14:57:05.000,1,35 to 39,Female,Crystal Meth,Point Douglas,NE024,Centennial
+636,2023156974,2023-11-24T14:57:05.000,1,35 to 39,Female,Cocaine,Point Douglas,NE024,Centennial
+637,2023156974,2023-11-24T14:57:05.000,1,35 to 39,Female,Alcohol,Point Douglas,NE024,Centennial
 638,2023156971,2023-11-24T13:37:58.000,1,20 to 24,Male,Alcohol,St. James,NE002,Airport
 639,2023156964,2023-11-24T13:23:55.000,1,35 to 39,Male,Opioids,Mynarski,NE040,Dufferin
 640,2023156959,2023-11-24T13:11:40.000,1,25 to 29,Male,Opioids,Point Douglas,NE088,Logan-C.P.R.
@@ -651,8 +651,8 @@
 649,2023156815,2023-11-24T02:58:37.000,1,20 to 24,Male,Alcohol,St. Vital,NE207,Varennes
 650,2023156817,2023-11-24T02:56:35.000,1,20 to 24,Male,Opioids,Point Douglas,NE219,West Alexander
 651,2023156814,2023-11-24T02:52:38.000,1,35 to 39,Male,Opioids,Mynarski,NE090,Lord Selkirk Park
-652,2023156777,2023-11-24T00:17:33.000,1,15 to 19,Male,Alcohol,St. Vital,NE101,Meadowood
-653,2023156777,2023-11-24T00:17:33.000,1,15 to 19,Male,Marijuana,St. Vital,NE101,Meadowood
+652,2023156777,2023-11-24T00:17:33.000,1,15 to 19,Male,Marijuana,St. Vital,NE101,Meadowood
+653,2023156777,2023-11-24T00:17:33.000,1,15 to 19,Male,Alcohol,St. Vital,NE101,Meadowood
 654,2023156759,2023-11-23T23:09:57.000,1,30 to 34,Male,Alcohol,Waverley West,NE108,Montcalm
 655,2023156755,2023-11-23T23:00:20.000,1,20 to 24,Female,Opioids,Mynarski,NE232,William Whyte
 656,2023156744,2023-11-23T22:38:20.000,1,25 to 29,Male,Opioids,St. Vital,NE104,Minnetonka
@@ -674,8 +674,8 @@
 672,2023156339,2023-11-23T05:14:20.000,1,25 to 29,Female,Alcohol,Daniel McIntyre,NE136,Portage-Ellice
 673,2023156326,2023-11-23T03:59:42.000,1,30 to 34,Female,Opioids,Point Douglas,NE226,Weston
 674,2023156305,2023-11-23T03:05:45.000,1,15 to 19,Female,Alcohol,Waverley West,NE053,Fairfield Park
-675,2023156288,2023-11-23T00:47:32.000,1,25 to 29,Male,Crystal Meth,St. James,NE179,St. James Industrial
-676,2023156288,2023-11-23T00:47:32.000,1,25 to 29,Male,Alcohol,St. James,NE179,St. James Industrial
+675,2023156288,2023-11-23T00:47:32.000,1,25 to 29,Male,Alcohol,St. James,NE179,St. James Industrial
+676,2023156288,2023-11-23T00:47:32.000,1,25 to 29,Male,Crystal Meth,St. James,NE179,St. James Industrial
 677,2023156285,2023-11-23T00:41:30.000,1,35 to 39,Male,Opioids,Point Douglas,NE052,Exchange District
 678,2023156227,2023-11-22T22:24:36.000,1,50 to 54,Female,Alcohol,Fort Rouge - East Fort Garry,NE149,River-Osborne
 679,2023156213,2023-11-22T21:23:34.000,1,35 to 39,Female,Crystal Meth,Fort Rouge - East Fort Garry,NE045,Earl Grey
@@ -702,15 +702,15 @@
 700,2023155749,2023-11-21T22:41:03.000,1,15 to 19,Male,Alcohol,Mynarski,NE180,St. John's
 701,2023155729,2023-11-21T21:47:30.000,1,30 to 34,Female,Opioids,Point Douglas,NE031,Civic Centre
 702,2023155723,2023-11-21T21:31:16.000,1,25 to 29,Female,Opioids,Point Douglas,NE219,West Alexander
-703,2023155720,2023-11-21T21:15:00.000,1,20 to 24,Male,Cocaine,St. Norbert - Seine River,NE183,St. Norbert
-704,2023155720,2023-11-21T21:15:00.000,1,20 to 24,Male,Alcohol,St. Norbert - Seine River,NE183,St. Norbert
+703,2023155720,2023-11-21T21:15:00.000,1,20 to 24,Male,Alcohol,St. Norbert - Seine River,NE183,St. Norbert
+704,2023155720,2023-11-21T21:15:00.000,1,20 to 24,Male,Cocaine,St. Norbert - Seine River,NE183,St. Norbert
 705,2023155713,2023-11-21T21:07:20.000,1,45 to 49,Male,Alcohol,Point Douglas,NE219,West Alexander
 706,2023155679,2023-11-21T19:31:13.000,1,40 to 44,Male,Alcohol,River Heights - Fort Garry,NE009,Beaumont
 707,2023155640,2023-11-21T18:24:49.000,1,15 to 19,Female,Alcohol,Daniel McIntyre,NE174,Spence
 708,2023155648,2023-11-21T18:14:49.000,1,30 to 34,Male,Alcohol,Fort Rouge - East Fort Garry,NE168,South Portage
 709,2023155648,2023-11-21T18:14:49.000,1,30 to 34,Male,Opioids,Fort Rouge - East Fort Garry,NE168,South Portage
-710,2023155623,2023-11-21T17:49:01.000,1,45 to 49,Male,Cocaine,St. Boniface,NE027,Central St. Boniface
-711,2023155623,2023-11-21T17:49:01.000,1,45 to 49,Male,Alcohol,St. Boniface,NE027,Central St. Boniface
+710,2023155623,2023-11-21T17:49:01.000,1,45 to 49,Male,Alcohol,St. Boniface,NE027,Central St. Boniface
+711,2023155623,2023-11-21T17:49:01.000,1,45 to 49,Male,Cocaine,St. Boniface,NE027,Central St. Boniface
 712,2023155635,2023-11-21T17:48:17.000,1,20 to 24,Male,Alcohol,Daniel McIntyre,NE136,Portage-Ellice
 713,2023155624,2023-11-21T17:26:47.000,1,40 to 44,Male,Opioids,Daniel McIntyre,NE136,Portage-Ellice
 714,2023155620,2023-11-21T17:16:35.000,1,20 to 24,Male,Alcohol,Transcona,NE139,Regent
@@ -749,8 +749,8 @@
 747,2023155219,2023-11-20T19:41:41.000,1,30 to 34,Female,Alcohol,St. James,NE179,St. James Industrial
 748,2023155218,2023-11-20T19:41:16.000,1,35 to 39,Female,Alcohol,Point Douglas,NE031,Civic Centre
 749,2023155197,2023-11-20T19:09:46.000,1,35 to 39,Male,Opioids,Point Douglas,NE166,South Point Douglas
-750,2023155174,2023-11-20T18:52:02.000,1,25 to 29,Male,Crystal Meth,Point Douglas,NE166,South Point Douglas
-751,2023155174,2023-11-20T18:52:02.000,1,25 to 29,Male,Opioids,Point Douglas,NE166,South Point Douglas
+750,2023155174,2023-11-20T18:52:02.000,1,25 to 29,Male,Opioids,Point Douglas,NE166,South Point Douglas
+751,2023155174,2023-11-20T18:52:02.000,1,25 to 29,Male,Crystal Meth,Point Douglas,NE166,South Point Douglas
 752,2023155188,2023-11-20T18:41:33.000,1,20 to 24,Male,Alcohol,Fort Rouge - East Fort Garry,NE149,River-Osborne
 753,2023155182,2023-11-20T18:31:30.000,1,25 to 29,Male,Opioids,Mynarski,NE180,St. John's
 754,2023155165,2023-11-20T17:56:29.000,1,35 to 39,Male,Alcohol,Point Douglas,NE219,West Alexander
@@ -851,8 +851,8 @@
 849,2023153457,2023-11-17T06:07:29.000,1,40 to 44,Female,Cocaine,North Kildonan,NE156,Rossmere-A
 850,2023153441,2023-11-17T03:30:56.000,1,,Male,Alcohol,Fort Rouge - East Fort Garry,NE149,River-Osborne
 851,2023153438,2023-11-17T02:45:47.000,1,30 to 34,Female,Opioids,Charleswood - Tuxedo - Westwood,NE171,Southboine
-852,2023153419,2023-11-17T01:43:49.000,1,10 to 14,Female,Alcohol,St. Norbert - Seine River,NE054,Fort Richmond
-853,2023153419,2023-11-17T01:43:49.000,1,10 to 14,Female,Marijuana,St. Norbert - Seine River,NE054,Fort Richmond
+852,2023153419,2023-11-17T01:43:49.000,1,10 to 14,Female,Marijuana,St. Norbert - Seine River,NE054,Fort Richmond
+853,2023153419,2023-11-17T01:43:49.000,1,10 to 14,Female,Alcohol,St. Norbert - Seine River,NE054,Fort Richmond
 854,2023153416,2023-11-17T01:39:19.000,1,30 to 34,Male,Alcohol,Mynarski,NE066,Inkster-Faraday
 855,2023153409,2023-11-17T00:56:02.000,1,15 to 19,Female,Opioids,Mynarski,NE040,Dufferin
 856,2023153385,2023-11-16T23:19:01.000,1,30 to 34,Male,Opioids,Fort Rouge - East Fort Garry,NE220,West Broadway
@@ -887,10 +887,10 @@
 885,2023152457,2023-11-15T06:05:13.000,1,25 to 29,Female,Crystal Meth,Charleswood - Tuxedo - Westwood,NE225,Westdale
 886,2023152454,2023-11-15T05:22:50.000,1,30 to 34,Female,Crystal Meth,Point Douglas,NE166,South Point Douglas
 887,2023152428,2023-11-15T02:43:27.000,1,35 to 39,Male,Marijuana,Fort Rouge - East Fort Garry,NE220,West Broadway
-888,2023152413,2023-11-15T01:33:33.000,1,25 to 29,Male,Opioids,Daniel McIntyre,NE182,St. Matthews
-889,2023152413,2023-11-15T01:33:33.000,1,25 to 29,Male,Alcohol,Daniel McIntyre,NE182,St. Matthews
-890,2023152384,2023-11-14T23:20:44.000,1,40 to 44,Male,Crystal Meth,Point Douglas,NE166,South Point Douglas
-891,2023152384,2023-11-14T23:20:44.000,1,40 to 44,Male,Alcohol,Point Douglas,NE166,South Point Douglas
+888,2023152413,2023-11-15T01:33:33.000,1,25 to 29,Male,Alcohol,Daniel McIntyre,NE182,St. Matthews
+889,2023152413,2023-11-15T01:33:33.000,1,25 to 29,Male,Opioids,Daniel McIntyre,NE182,St. Matthews
+890,2023152384,2023-11-14T23:20:44.000,1,40 to 44,Male,Alcohol,Point Douglas,NE166,South Point Douglas
+891,2023152384,2023-11-14T23:20:44.000,1,40 to 44,Male,Crystal Meth,Point Douglas,NE166,South Point Douglas
 892,2023152380,2023-11-14T22:52:50.000,1,20 to 24,Female,Opioids,Mynarski,NE181,St. John's Park
 893,2023152371,2023-11-14T22:11:46.000,1,35 to 39,Male,Opioids,Point Douglas,NE135,Portage & Main
 894,2023152348,2023-11-14T20:32:14.000,1,40 to 44,Female,Opioids,North Kildonan,NE205,Valhalla
@@ -903,8 +903,8 @@
 901,2023152116,2023-11-14T12:11:11.000,1,35 to 39,Male,Alcohol,North Kildonan,NE175,Springfield North
 902,2023152000,2023-11-14T07:23:31.000,1,30 to 34,Female,Crystal Meth,Mynarski,NE180,St. John's
 903,2023151980,2023-11-14T04:53:09.000,1,20 to 24,Male,Opioids,Point Douglas,NE088,Logan-C.P.R.
-904,2023151970,2023-11-14T03:33:54.000,1,30 to 34,Male,Marijuana,Point Douglas,NE226,Weston
-905,2023151970,2023-11-14T03:33:54.000,1,30 to 34,Male,Cocaine,Point Douglas,NE226,Weston
+904,2023151970,2023-11-14T03:33:54.000,1,30 to 34,Male,Cocaine,Point Douglas,NE226,Weston
+905,2023151970,2023-11-14T03:33:54.000,1,30 to 34,Male,Marijuana,Point Douglas,NE226,Weston
 906,2023151944,2023-11-14T00:58:50.000,1,25 to 29,Female,Opioids,Old Kildonan,NE084,Leila North
 907,2023151935,2023-11-14T00:12:53.000,1,45 to 49,Female,Alcohol,Charleswood - Tuxedo - Westwood,NE056,Glendale
 908,2023151920,2023-11-13T23:14:30.000,1,35 to 39,Male,Opioids,Daniel McIntyre,NE025,Central Park
@@ -970,18 +970,18 @@
 968,2023150374,2023-11-10T21:00:41.000,1,25 to 29,Male,Opioids,Daniel McIntyre,NE033,Colony
 969,2023150339,2023-11-10T19:35:55.000,1,30 to 34,Male,Crystal Meth,Point Douglas,NE088,Logan-C.P.R.
 970,2023150334,2023-11-10T19:20:12.000,1,25 to 29,Male,Crystal Meth,Point Douglas,NE017,Brooklands
-971,2023150330,2023-11-10T19:13:06.000,2,35 to 39,Male,Opioids,Mynarski,NE180,St. John's
-972,2023150330,2023-11-10T19:13:06.000,1,45 to 49,Male,Opioids,Mynarski,NE180,St. John's
+971,2023150330,2023-11-10T19:13:06.000,1,45 to 49,Male,Opioids,Mynarski,NE180,St. John's
+972,2023150330,2023-11-10T19:13:06.000,2,35 to 39,Male,Opioids,Mynarski,NE180,St. John's
 973,2023150318,2023-11-10T18:50:04.000,1,25 to 29,Female,Opioids,Point Douglas,NE227,Weston Shops
 974,2023150308,2023-11-10T18:20:31.000,1,60 to 64,Male,Alcohol,Fort Rouge - East Fort Garry,NE168,South Portage
-975,2023150308,2023-11-10T18:20:31.000,2,35 to 39,Male,Opioids,Fort Rouge - East Fort Garry,NE168,South Portage
-976,2023150308,2023-11-10T18:20:31.000,2,35 to 39,Male,Alcohol,Fort Rouge - East Fort Garry,NE168,South Portage
+975,2023150308,2023-11-10T18:20:31.000,2,35 to 39,Male,Alcohol,Fort Rouge - East Fort Garry,NE168,South Portage
+976,2023150308,2023-11-10T18:20:31.000,2,35 to 39,Male,Opioids,Fort Rouge - East Fort Garry,NE168,South Portage
 977,2023150277,2023-11-10T17:01:58.000,1,35 to 39,Female,Crystal Meth,Point Douglas,NE088,Logan-C.P.R.
 978,2023150258,2023-11-10T16:20:03.000,1,15 to 19,Female,Alcohol,Point Douglas,NE088,Logan-C.P.R.
-979,2023150210,2023-11-10T14:43:36.000,1,15 to 19,Male,Marijuana,River Heights - Fort Garry,NE059,Grant Park
-980,2023150210,2023-11-10T14:43:36.000,1,15 to 19,Male,Alcohol,River Heights - Fort Garry,NE059,Grant Park
-981,2023150189,2023-11-10T14:10:28.000,1,25 to 29,Male,Crystal Meth,Fort Rouge - East Fort Garry,NE191,The Forks
-982,2023150189,2023-11-10T14:10:28.000,1,25 to 29,Male,Alcohol,Fort Rouge - East Fort Garry,NE191,The Forks
+979,2023150210,2023-11-10T14:43:36.000,1,15 to 19,Male,Alcohol,River Heights - Fort Garry,NE059,Grant Park
+980,2023150210,2023-11-10T14:43:36.000,1,15 to 19,Male,Marijuana,River Heights - Fort Garry,NE059,Grant Park
+981,2023150189,2023-11-10T14:10:28.000,1,25 to 29,Male,Alcohol,Fort Rouge - East Fort Garry,NE191,The Forks
+982,2023150189,2023-11-10T14:10:28.000,1,25 to 29,Male,Crystal Meth,Fort Rouge - East Fort Garry,NE191,The Forks
 983,2023150177,2023-11-10T13:44:39.000,1,40 to 44,Male,Opioids,Fort Rouge - East Fort Garry,NE168,South Portage
 984,2023150168,2023-11-10T13:20:32.000,1,30 to 34,Female,Crystal Meth,Daniel McIntyre,NE234,Wolseley
 985,2023150161,2023-11-10T12:42:16.000,1,45 to 49,Male,Alcohol,Daniel McIntyre,NE136,Portage-Ellice
